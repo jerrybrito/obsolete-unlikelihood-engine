@@ -1,0 +1,2 @@
+# Requires: impossible-hesitation
+# (Not available on PyPI)
